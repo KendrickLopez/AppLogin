@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923748228718",
+    "project_id": "login-4552e",
+    "storage_bucket": "login-4552e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923748228718:android:dc98dce2302f318ac4107f",
+        "android_client_info": {
+          "package_name": "kendrick.lopez.iniciodesesionyregistrofirebasekendrick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuN0-LwrfrDAYTLZWaQr7ocoNwLoKKu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
